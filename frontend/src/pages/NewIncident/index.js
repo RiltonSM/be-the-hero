@@ -27,7 +27,7 @@ export default function NewIncident() {
         };
 
         try {
-            await api.post('incidents/new', data, {
+            await api.post('/incidents', data, {
                 headers: {
                     Authorization: ongId,
                 }
@@ -71,7 +71,7 @@ export default function NewIncident() {
                         placeholder="Valor em reais"
                     />
 
-                    <button className="button" type="submit">Cadastrar</button>
+                    <button onClick={handleNewIncident} className="button" type="submit">Cadastrar</button>
                 </form>
             </div>    
         </div>

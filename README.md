@@ -5,7 +5,7 @@ Sistema desenvolvido durante a Semana OmniSatck 11, composto por Backend (NodeJS
 O objetivo desse sistema é facilitar a comunicação entre ONGs e pessoas interessadas em ajudar em algum caso que a ONG esteja trabalhando.
 O cadastro das ONGs é feito através da aplicação web, onde a ONG tamém poderá criar e remover os casos; através do aplicativo o usuário pode visualizar uma lista de casos os quais as ONGs cadastradas estão trabalhando, podendo entrar em contato por email ou Whatsapp.
 
-![Home da aplicação web](./screenshots/Home.png)
+![Home da aplicação web](./screenshots/Login.png)
 
 ![Área de listagem de casos da aplicação mobile](./screenshots/Screenshot_1591649510.png)
 

@@ -1,4 +1,4 @@
-# Ecoleta
+# Be the Hero
 > Sistema composto de backend, aplicação web e mobile desenvolvida durante a Semana OmniSatck 11.
 
 Sistema desenvolvido durante a Semana OmniSatck 11, composto por Backend (NodeJS - ExpressJS), aplicação SPA web (ReactJS) e aplicação mobile (React-Native).
